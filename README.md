@@ -5,6 +5,8 @@ Currently studying Computer Science at the Federal University of ABC.
 
 - 🔭 Currently working on personal projects.
 - 📚 Studying ReactJS and NodeJS.
+- 🙋‍♂️ Available for professional opportunities.
+
 
 - See my LinkedIn: [MURILO MACHADO](https://www.linkedin.com/in/murilomb/)
 
