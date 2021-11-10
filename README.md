@@ -3,7 +3,7 @@
 I'm a Full Stack Developer Passionate about the best web technologies. I have knowledge in HTML, CSS and Javascript and I am studying ReactJS and NodeJS.
 Currently studying Computer Science at the Federal University of ABC.
 
-- 🔭 Currently working on personal projects.
+- 🔭 I am currently not working.
 - 📚 Studying ReactJS and NodeJS.
 - 🙋‍♂️ Available for professional opportunities.
 
