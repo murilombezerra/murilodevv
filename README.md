@@ -9,7 +9,7 @@ Currently studying Computer Science at the Federal University of ABC.
 
 <br>
 
-- See my LinkedIn: [MURILO MACHADO](https://www.linkedin.com/in/murilomb/)
+- See my LinkedIn: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
 
 <!--
 **murilodevv/murilodevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
