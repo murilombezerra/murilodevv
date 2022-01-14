@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a Full Stack Developer Passionate about the best web technologies. I have knowledge in HTML, CSS and Javascript and I am studying ReactJS and NodeJS.
-Currently studying Computer Science at the Federal University of ABC.
+Olá, meu nome é Murilo Machado Bezerra e sou apaixonado por programação. Tenho conhecimentos em HTML, CSS e Javascript. Além disso, estou estudando ReactJS e NodeJS.
+Atualmente estudando Ciência da Computação na Universidade Federal do ABC.
 
 - 🔭 Atualmente não estou trabalhando.
 - 📚 Estudando ReactJS e NodeJS.
