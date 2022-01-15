@@ -10,7 +10,7 @@ Atualmente estudando Ciência da Computação na Universidade Federal do ABC.
 
 <br>
 
-- See my LinkedIn: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
+- Meu Linkedin: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
 
 <br>
 <div>
