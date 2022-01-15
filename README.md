@@ -1,6 +1,7 @@
 ### Olá 👋
 
-Meu nome é Murilo Machado Bezerra e sou apaixonado por programação. Tenho conhecimentos em HTML, CSS e Javascript. Além disso, estou estudando ReactJS e NodeJS.
+Meu nome é Murilo Machado Bezerra e sou apaixonado por programação. Tenho conhecimentos em HTML, CSS e Javascript. Além disso, estou estudando ReactJS e NodeJS. Aqui você pode acompanhar o que estou fazendo e treinando em tempo real.<br>
+
 Atualmente estudando Ciência da Computação na Universidade Federal do ABC.
 
 - 🔭 Atualmente não estou trabalhando.
