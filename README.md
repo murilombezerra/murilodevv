@@ -4,9 +4,7 @@ Meu nome é Murilo Machado Bezerra e sou apaixonado por programação. Tenho con
 
 Atualmente estudando Ciência da Computação na Universidade Federal do ABC.
 
-- 🔭 Atualmente não estou trabalhando.
 - 📚 Estudando ReactJS e NodeJS.
-- 🙋‍♂️ Disponível para oportunidades profissionais.
 
 <br>
 
