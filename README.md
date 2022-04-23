@@ -4,7 +4,6 @@ My name is Murilo Machado Bezerra and I'm passionate about programming. I'm work
 I am studying Computer Science at the Federal University of ABC.
 <br>
 - My Linkedin: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
-<br>
 <div>
   <a href="https://beacons.ai/murilodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilodevv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
