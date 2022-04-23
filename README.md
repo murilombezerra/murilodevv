@@ -1,15 +1,9 @@
-### Olá 👋
+### 👋
 
-Meu nome é Murilo Machado Bezerra e sou apaixonado por programação. Tenho conhecimentos em HTML, CSS e Javascript. Além disso, estou estudando ReactJS e NodeJS. Aqui você pode acompanhar o que estou fazendo e treinando em tempo real.<br>
-
-Atualmente estudando Ciência da Computação na Universidade Federal do ABC.
-
-- 📚 Estudando ReactJS e NodeJS.
-
+Hi, my name is Murilo Machado Bezerra and I'm passionate about programming. I'm working as a backend developer.<br>
+I am studying Computer Science at the Federal University of ABC.
 <br>
-
-- Meu Linkedin: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
-
+- My Linkedin: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
 <br>
 <div>
   <a href="https://beacons.ai/murilodev">
