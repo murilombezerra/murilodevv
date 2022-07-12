@@ -8,10 +8,10 @@ Now I'm de-depth in Database and often seeking certifications.
 
 - See my LinkedIn: [Murilo M. Bezerra](https://www.linkedin.com/in/murilomb/)
 
-<div>
+<div align="center">
   <a href="https://beacons.ai/murilodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilodevv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilodevv&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilodevv&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
