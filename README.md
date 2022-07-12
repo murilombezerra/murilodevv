@@ -2,6 +2,10 @@
 
 My name is Murilo Machado Bezerra and I'm passionate about programming. I'm working as a backend developer.<br>
 I am studying Computer Science at the Federal University of ABC.
+
+I have knowledge in Python, PostgreSQL, Node.js, Git, Linux and Web Development.
+
+
 <br>
 - My Linkedin: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
 <div>
