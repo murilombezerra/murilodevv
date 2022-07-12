@@ -4,6 +4,7 @@ My name is Murilo Machado Bezerra and I'm passionate about programming. I'm work
 I am studying Computer Science at the Federal University of ABC.
 
 I have knowledge in Python, PostgreSQL, Node.js, Git, Linux and Web Development.
+Now I'm de-depth in Database and often seeking certifications.
 
 
 <br>
