@@ -6,9 +6,7 @@ I am studying Computer Science at the Federal University of ABC.
 I have knowledge in Python, PostgreSQL, Node.js, Git, Linux and Web Development.
 Now I'm de-depth in Database and often seeking certifications.
 
-<br>
-- My Linkedin: [Murilo M. Bezerra](https://www.linkedin.com/in/murilomb/)
-<br>
+- See my LinkedIn: [Murilo M. Bezerra](https://www.linkedin.com/in/murilomb/)
 
 <div>
   <a href="https://beacons.ai/murilodev">
