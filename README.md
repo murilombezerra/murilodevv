@@ -7,7 +7,7 @@ I have knowledge in Python, PostgreSQL, Node.js, Git, Linux and Web Development.
 Now I'm de-depth in Database and often seeking certifications.
 
 <br>
-- My Linkedin: [MURILO MACHADO BEZERRA](https://www.linkedin.com/in/murilomb/)
+- My Linkedin: [Murilo M. Bezerra](https://www.linkedin.com/in/murilomb/)
 <br>
 
 <div>
