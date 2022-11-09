@@ -1,12 +1,21 @@
-###  Hi 👋
+## Murilo M. Bezerra: Computer science student, Software engineer
 
-My name is Murilo Machado Bezerra and I'm passionate about programming. I'm working as a backend developer.<br>
-I am studying Computer Science at the Federal University of ABC.
+```python
+import json
+class MuriloMBezerra:
+  def __repr__(self):
+    return json.dumps({
+      'code': ['Python', 'JavaScript', 'C++', 'Java'],
+      'database': ['Postgresql']
+      'tools': ['Django', 'FastAPI', 'Linux'],
+      'been_at_it_since': 2015
+    })
+me = MuriloMBezerra()
+print(me)
+```
 
-I have knowledge in Python, PostgreSQL, Node.js, Git, Linux and Web Development.
-Now I'm de-depth in Database and often seeking certifications.
-
-- See my LinkedIn: [Murilo M. Bezerra](https://www.linkedin.com/in/murilomb/)
+[![Linkedin: murilomb](https://img.shields.io/badge/-iandouglas736-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iandouglas736/)](https://www.linkedin.com/in/murilomb/)
+[![GitHub murilodevv](https://img.shields.io/github/followers/iandouglas?label=follow&style=social)](https://github.com/murilodevv)
 
 <div align="center">
   <a href="https://beacons.ai/murilodev">
