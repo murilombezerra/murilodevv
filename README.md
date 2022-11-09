@@ -14,7 +14,7 @@ me = MuriloMBezerra()
 print(me)
 ```
 
-[![Linkedin: murilomb](https://img.shields.io/badge/-iandouglas736-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iandouglas736/)](https://www.linkedin.com/in/murilomb/)
+[![Linkedin: murilomb](https://img.shields.io/badge/-murilomb-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilomb/)](https://www.linkedin.com/in/murilomb/)
 [![GitHub murilodevv](https://img.shields.io/github/followers/iandouglas?label=follow&style=social)](https://github.com/murilodevv)
 
 <div align="center">
