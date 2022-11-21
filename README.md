@@ -5,7 +5,7 @@ import json
 class MuriloMBezerra:
   def __repr__(self):
     return json.dumps({
-      'code': ['Python', 'JavaScript', 'C++', 'Java'],
+      'code': ['Python', 'JavaScript', 'Java'],
       'database': ['Postgresql'],
       'tools': ['Django', 'FastAPI', 'Linux'],
       'been_at_it_since': 2015
