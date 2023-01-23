@@ -6,7 +6,7 @@ class MuriloMBezerra:
   def __repr__(self):
     return json.dumps({
       'code': ['Python', 'Node.js', 'Java'],
-      'database': ['Postgresql'],
+      'database': ['SQL'],
       'tools': ['Django', 'FastAPI', 'Linux'],
       'been_at_it_since': 2015
     })
