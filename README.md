@@ -9,7 +9,7 @@ class MuriloMBezerra:
       'experience': ['Logical IT', 'Back-end Developer', '2022-2023'],
       'code': ['Python', 'Node.js'],
       'database': ['PostgreSQL'],
-      'tools': ['Django', 'FastAPI', 'Linux'],
+      'tools': ['FastAPI', 'Linux'],
       'been_at_it_since': 2019
     })
 me = MuriloMBezerra()
