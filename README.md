@@ -5,8 +5,8 @@ import json
 class MuriloMBezerra:
   def __repr__(self):
     return json.dumps({
-      'education': ['Federal University of ABC', 'Science and Technology', '4 years'],
-      'experience': ['Logical IT', 'Back-end Developer', '1 year',],
+      'education': ['Federal University of ABC', 'Science and Technology', '2021-2024'],
+      'experience': ['Logical IT', 'Back-end Developer', '2022-2023',],
       'code': ['Python', 'Node.js', 'Java'],
       'database': ['SQL'],
       'tools': ['Django', 'FastAPI', 'Linux'],
