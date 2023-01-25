@@ -5,10 +5,12 @@ import json
 class MuriloMBezerra:
   def __repr__(self):
     return json.dumps({
+      'education': ['Federal University of ABC']
+      'experience': ['10 months as a Back-end Developer']
       'code': ['Python', 'Node.js', 'Java'],
       'database': ['SQL'],
       'tools': ['Django', 'FastAPI', 'Linux'],
-      'been_at_it_since': 2015
+      'been_at_it_since': 2019
     })
 me = MuriloMBezerra()
 print(me)
