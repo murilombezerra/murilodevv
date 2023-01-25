@@ -1,4 +1,4 @@
-## Murilo M. Bezerra: Computer science student, Software engineer
+## Murilo M. Bezerra: Computer science student, Back-end Developer
 
 ```python
 import json
