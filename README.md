@@ -7,7 +7,7 @@ class MuriloMBezerra:
     return json.dumps({
       'education': ['Federal University of ABC', 'Science and Technology', '2021-2024'],
       'experience': ['Logical IT', 'Back-end Developer', '2022-2023'],
-      'code': ['Python', 'Node.js', 'Java'],
+      'code': ['Python', 'Node.js'],
       'database': ['SQL'],
       'tools': ['Django', 'FastAPI', 'Linux'],
       'been_at_it_since': 2019
