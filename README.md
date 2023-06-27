@@ -2,14 +2,6 @@
 
 ```python
 import json
-from datetime import datetime
-
-data_inicial = datetime(2000, 1, 15)  # Data inicial específica
-data_final = datetime.now()  # Data atual
-diferenca = data_final - data_inicial  # Calcula a diferença entre as datas
-anos = diferenca.days // 365  # Calcula o número de anos
-meses = (diferenca.days % 365) // 30  # Calcula o número de meses
-
 class MuriloMBezerra:
   def __repr__(self):
     return json.dumps({
@@ -21,7 +13,7 @@ class MuriloMBezerra:
       'experience': {
                      'company': 'Logical IT',
                      'position': 'Junior Back-end Developer',
-                     'time': f'{anos} years and {meses} months'
+                     'time': '1 year and 3 months'
                     },
       'code': ['Python', 'Node.js'],
       'database': ['PostgreSQL'],
