@@ -12,7 +12,7 @@ class MuriloMBezerra:
                    },
       'experience': {
                      'company': 'Logical IT',
-                     'position': 'Back-end Developer',
+                     'position': 'Junior Back-end Developer',
                      'time': '2022-2023'
                     },
       'code': ['Python', 'Node.js'],
