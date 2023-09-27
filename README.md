@@ -29,7 +29,7 @@ print(me)
 
 <div align="center">
   <a href="https://beacons.ai/murilodev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilodevv&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilodevv&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <!--
